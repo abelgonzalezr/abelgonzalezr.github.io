@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abel Gonzalez"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Previously, he was a manager of IT App services, with more than 3 years of experience in banking technology sector. I have worked on large system implementations to large associations and banks such as APAP, Bancamerica, Banco Lopez de haro, Scotiabank among others. Until recently I led the Hermes Project which is in charge of sending the statements in APAP using the following technologies Nodejs, postgresql, Docker, OCP, allowing the institution great savings within the Consolidation Project of Applications."
+  name             : "Abel González"
+  avatar           : "/images/bio-abel.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Previously, he was a manager of IT App services, with more than 3 years of experience in banking technology sector."
   location         : "Republica Dominicana"
   email            :
   links:
@@ -107,7 +107,7 @@ author:
       url: "https://abelgr45.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/abelr19"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
